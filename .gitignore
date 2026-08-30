@@ -1,0 +1,21 @@
+/cody
+config.yaml
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.idea/
+.vscode/
+.cody/
+.claude/
+CLAUDE.md
+docs/
+
+a.out
+cody
+
+# Playwright MCP 运行日志
+.playwright-mcp/
